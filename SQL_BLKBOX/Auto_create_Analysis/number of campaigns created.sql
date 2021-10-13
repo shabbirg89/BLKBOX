@@ -1,0 +1,1 @@
+select distinct adaccount_id,count(campaign_name) over(partition by adaccount_id) as Total_campaigns from fb_app_campaigns where campaign_name like '%\_AC\_%' or campaign_name like '%\_AC';
