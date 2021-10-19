@@ -1,4 +1,5 @@
-# Changes added to model code(Model_Consolidation.ipynb)
+
+
 
 1) List comprehension added to avoid the duplicate videos downloaded from s3 buckets 
 https://colab.research.google.com/drive/1m6gAX0WkuOsy5MsRxfH5u78EzqMRGvxV#scrollTo=sbpr8AT59NSh&line=1&uniqifier=1
