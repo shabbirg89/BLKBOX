@@ -1,4 +1,4 @@
-
+# Improvements added to remove duplicacy & consolidation of scores from colors tags similarity & performance
 
 
 1) List comprehension added to avoid the duplicate videos downloaded from s3 buckets 
